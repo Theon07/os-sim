@@ -3,5 +3,5 @@
 
 - Use make to build executable.
 - run executable.
-(- Use make clean to remove files other than source code)
+- (Use make clean to remove files other than source code)
 
